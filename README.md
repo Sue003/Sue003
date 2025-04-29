@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sue003
+- 👋 Hi, I’m Soumaya
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science in Hassan II University
 - 💞️ I’m looking to collaborate on a project
