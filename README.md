@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Soumaya
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science in Hassan II University
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me teen.wolfsea@gmail.com
+- 💞️ Feel free to collaborate with me on a project
+- 📫 How to reach me? 👉 teen.wolfsea@gmail.com
 
 <!---
 Sue003/Sue003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
